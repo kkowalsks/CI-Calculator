@@ -11,5 +11,5 @@ def subtract(a, b):
     return a - b
 
 
-def mutliply(a, b):
+def multiply(a, b):
     return a * b
